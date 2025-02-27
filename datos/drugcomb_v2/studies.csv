@@ -1,0 +1,38 @@
+id,sname,pubmed_id,title,journal,year,doi
+1,ONEIL,26983881.0,An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies,Mol Cancer Ther,2016.0,"10.1158/1535-7163.MCT-15-0843"
+2,CLOUD,28530711.0,A combinatorial screen of the CLOUD uncovers a synergy targeting the androgen receptor,Nat Chem Biol,2017.0,"10.1038/nchembio.7916"
+3,ALMANAC,28446463.0,The National Cancer Institute ALMANAC: A Comprehensive Screening Resource for the Detection of Anticancer Drug Pairs with Enhanced Therapeutic Activity,Cancer Re,2017.0,"doi: 10.1158/0008-5472"
+4,FORCINA,28601558.0,Systematic Quantification of Population Cell Death Kinetics in Mammalian Cells.,Cell Syst,2017.0,"10.1016/j.cels.2017.05.002"
+5,NCATS_ATL,0.0,NA,NA,2012.0,NA
+6,MATHEWS,24469833.0,High-throughput combinatorial screening identifies drugs that cooperate with ibrutinib to kill activated B-cell-like diffuse large B-cell lymphoma cells.,Proceedings of the National Academy of Sciences of the United States of America,2014.0,10.1073/pnas.1311846111
+7,NCATS_DIPG,0.0,NA,NA,2018.0,NA
+8,NCATS_ES(FAKI/AURKI),0.0,NA,NA,2013.0,NA
+9,NCATS_ES(NAMPT+PARP),0.0,NA,NA,2015.0,NA
+10,WILSON,30289729.0,Mutation Profiles in Glioblastoma 3D Oncospheres Modulate Drug Efficacy.,SLAS technology,2019.0,10.1177/2472630318803749
+11,NCATS_HL,0.0,NA,NA,2014.0,NA
+12,YOHE,29973406.0,MEK inhibition induces MYOG and remodels super-enhancers in RAS-driven rhabdomyosarcoma.,Science translational medicine,2018.0,10.1126/scitranslmed.aan4470
+13,NCATS_2D_3D,0.0,NA,NA,2014.0,NA
+14,PHELAN,29925955.0,A multiprotein supercomplex controlling oncogenic signalling in lymphoma.,Nature,2018.0,10.1038/s41586-018-0290-0
+15,NCATS_MDR_CS,0.0,NA,NA,6.0,NA
+16,CCLE,22460905.0,The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity,Nature,2012.0,10.1038/nature11003
+17,CTRPV2,26482930.0,Harnessing Connectivity in a Large-Scale Small-Molecule Sensitivity Dataset,Cancer Discov,2015.0,10.1158/2159-8290.CD-15-0235
+18,FIMM,24056683.0,Individualized systems medicine strategy to tailor treatments for patients with chemorefractoryacute myeloid leukemia,Cancer Discov,2013.0,10.1158/2159-8290.CD-13-0350
+19,GCSI,27193678.0,Reproducible pharmacogenomic profiling of cancer cell line panels,Nature,2016.0,10.1038/nature17987
+20,GDSC1,23180760.0,Genomics of Drug Sensitivity in Cancer (GDSC): a resource for therapeutic biomarker discoveryin cancer cells,Nucleic Acids Res,2013.0,10.1093/nar/gks1111
+21,GRAY,24176112.0,Modeling precision treatment of breast cancer,Genome Biol,2013.0,10.1186/gb-2013-14-10-r110
+22,UHNBREAST,26771497.0,"Functional Genomic Landscape of Human Breast Cancer Drivers, Vulnerabilities, and Resistance",Cell,2016.0,10.1016/j.cell.2015.11.062
+23,BEATAML,30333627.0,Functional genomic landscape of acute myeloid leukaemia,Nature,2018.0,10.1038/s41586-018-0623-z
+24,FLOBAK,31664030.0,A high-throughput drug combination screen of targeted small molecule inhibitors in cancer cell lines,Nature,2019.0,2019
+25,ASTRAZENECA,31209238.0,Community assessment to advance computational prediction of cancer drug combinations in a pharmacogenomic screen,Nature Communications,2019.0,2019
+26,FRIEDMAN,26461489.0,Landscape of Targeted Anti-Cancer Drug Synergies in Melanoma Identifies a Novel BRAF-VEGFR/PDGFR Combination Treatment,PLoS One,2015.0,2015
+27,SCHMIDT,24101737.0,Comparative drug pair screening across multiple glioblastoma cell lines reveals novel drug-drug interactions,Neuro-oncology,2013.0,2013
+28,MILLER,24065146.0,Drug synergy screen and network modeling in dedifferentiated liposarcoma identifies CDK4 and IGF1R as synergistic drug targets,Science Signalling,2013.0,2013
+29,FRIEDMAN2,28446504.0,Feasibility of Ultra-High-Throughput Functional Screening of Melanoma Biopsies for Discovery of Novel Cancer Drug Combinations,Clinical Cancer Research,2017.0,2017
+30,TOURET,32753646.0,In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication,scientific reports,2020.0,2020
+31,GORDON,32353859.0,A SARS-CoV-2 protein interaction map reveals targets for drug repurposing,Nature,2020.0,2020
+32,ELLINGER,,Identification of inhibitors of SARS-CoV-2 in-vitro cellular toxicity in human (Caco-2) cells using a large scale drug repurposing collection,NA,,NULL
+33,MOTT,26403635.0,High-throughput matrix screening identifies synergistic and antagonistic antimalarial drug combinations.,Scientific reports,2015.0,2015
+34,NCATS_SARS-COV-2DPI,,NA,NA,2020.0,2020
+35,BOBROWSKI,32637956.0,Discovery of Synergistic and Antagonistic Drug Combinations against SARS-CoV-2 In Vitro.,bioRxiv : the preprint server for biology,2020.0,2020
+36,DYALL,29939303.0,Identification of Combinations of Approved Drugs With Synergistic Activity Against Ebola Virus in Cell Cultures.,The Journal of infectious diseases,2018.0,2018
+37,FALLAHI-SICHANI,28069687.0,Adaptive resistance of melanoma cells to RAF inhibition via reversible induction of a slowly dividing de-differentiated state,Mol Syst Biol,2017.0,2017
