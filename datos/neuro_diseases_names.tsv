@@ -1,0 +1,177 @@
+cui	disease_name
+C0001206	Acromegaly
+C0001973	Alcoholic Intoxication, Chronic
+C0002395	Alzheimer's Disease
+C0002622	Amnesia
+C0002736	Amyotrophic Lateral Sclerosis
+C0003467	Anxiety
+C0003537	Aphasia
+C0004135	Ataxia Telangiectasia
+C0004352	Autistic Disorder
+C0005586	Bipolar Disorder
+C0007282	Carotid Stenosis
+C0007766	Intracranial Aneurysm
+C0007785	Cerebral Infarction
+C0007786	Brain Ischemia
+C0007787	Transient Ischemic Attack
+C0007789	Cerebral Palsy
+C0007959	Charcot-Marie-Tooth Disease
+C0009171	Cocaine Abuse
+C0009207	Cockayne Syndrome
+C0009952	Febrile Convulsions
+C0010964	Dandy-Walker Syndrome
+C0011195	Dejerine-Sottas Disease (disorder)
+C0011206	Delirium
+C0011265	Presenile dementia
+C0011269	Dementia, Vascular
+C0011570	Mental Depression
+C0011581	Depressive disorder
+C0011633	Dermatomyositis
+C0013080	Down Syndrome
+C0013264	Muscular Dystrophy, Duchenne
+C0013362	Dysarthria
+C0013384	Dyskinetic syndrome
+C0014038	Encephalitis
+C0014057	Japanese Encephalitis
+C0014060	Encephalitis, St. Louis
+C0014065	Congenital cerebral hernia
+C0014070	Encephalomyelitis
+C0014544	Epilepsy
+C0014553	Absence Epilepsy
+C0014556	Epilepsy, Temporal Lobe
+C0015469	Facial paralysis
+C0016667	Fragile X Syndrome
+C0016719	Friedreich Ataxia
+C0017205	Gaucher Disease
+C0017921	Glycogen storage disease type II
+C0018378	Guillain-Barre Syndrome
+C0018524	Hallucinations
+C0018784	Sensorineural Hearing Loss (disorder)
+C0019202	Hepatolenticular Degeneration
+C0019562	Von Hippel-Lindau Syndrome
+C0020179	Huntington Disease
+C0020255	Hydrocephalus
+C0022336	Creutzfeldt-Jakob disease
+C0023264	Leigh Disease
+C0023524	Leukoencephalopathy, Progressive Multifocal
+C0024266	Lymphocytic Choriomeningitis
+C0024408	Machado-Joseph Disease
+C0024809	Marijuana Abuse
+C0024814	Marinesco-Sjogren syndrome
+C0025286	Meningioma
+C0025289	Meningitis
+C0025958	Microcephaly
+C0026106	Mild Mental Retardation
+C0026654	Moyamoya Disease
+C0026769	Multiple Sclerosis
+C0026847	Spinal Muscular Atrophy
+C0026850	Muscular Dystrophy
+C0026896	Myasthenia Gravis
+C0027121	Myositis
+C0027126	Myotonic Dystrophy
+C0027809	Neurilemmoma
+C0027830	neurofibroma
+C0027831	Neurofibromatosis 1
+C0027832	Neurofibromatosis 2
+C0027859	Acoustic Neuroma
+C0027873	Neuromyelitis Optica
+C0028043	Nicotine Dependence
+C0028077	Night Blindness
+C0028738	Nystagmus
+C0029124	Optic Atrophy
+C0030567	Parkinson Disease
+C0032000	Pituitary Adenoma
+C0033375	Prolactinoma
+C0035258	Restless Legs Syndrome
+C0035372	Rett Syndrome
+C0036341	Schizophrenia
+C0037773	Spastic Paraplegia, Hereditary
+C0038220	Status Epilepticus
+C0038379	Strabismus
+C0038436	Post-Traumatic Stress Disorder
+C0038525	Subarachnoid Hemorrhage
+C0038868	Progressive supranuclear palsy
+C0039483	Giant Cell Arteritis
+C0040517	Gilles de la Tourette syndrome
+C0041341	Tuberous Sclerosis
+C0042170	Uveomeningoencephalitic Syndrome
+C0043124	West Nile Fever
+C0043459	Zellweger Syndrome
+C0080178	Spina Bifida
+C0085084	Motor Neuron Disease
+C0085655	Polymyositis
+C0085762	Alcohol abuse
+C0086769	Panic Attacks
+C0149940	Sciatic Neuropathy
+C0151311	Cranial nerve palsies
+C0151740	Intracranial Hypertension
+C0152020	Gastroparesis
+C0152025	Polyneuropathy
+C0153633	Malignant neoplasm of brain
+C0162309	Adrenoleukodystrophy
+C0162635	Angelman Syndrome
+C0162666	Mitochondrial Encephalomyopathies
+C0175754	Agenesis of corpus callosum
+C0206728	Plexiform Neurofibroma
+C0220756	Niemann-Pick Disease, Type C
+C0221056	Adult type dermatomyositis
+C0221406	Pituitary-dependent Cushing's disease
+C0234144	Dysgraphia
+C0236642	Pick Disease of the Brain
+C0238190	Inclusion Body Myositis (disorder)
+C0238288	Muscular Dystrophy, Facioscapulohumeral
+C0242350	Erectile dysfunction
+C0265219	Miller Dieker syndrome
+C0266463	Lissencephaly
+C0266464	Polymicrogyria
+C0266483	Pachygyria
+C0270824	Visual seizure
+C0270972	Cornelia De Lange Syndrome
+C0271270	Oculovestibuloauditory syndrome
+C0276226	Herpes encephalitis
+C0276496	Familial Alzheimer Disease (FAD)
+C0282527	Infantile Refsum Disease (disorder)
+C0338451	Frontotemporal dementia
+C0338508	Optic Atrophy, Autosomal Dominant
+C0349204	Nonorganic psychosis
+C0410189	Muscular Dystrophy, Emery-Dreifuss
+C0410207	Tubular Aggregate Myopathy
+C0431380	Cortical Dysplasia
+C0494463	Alzheimer Disease, Late Onset
+C0496899	Benign neoplasm of brain, unspecified
+C0497327	Dementia
+C0520679	Sleep Apnea, Obstructive
+C0543859	Amyotrophic Lateral Sclerosis, Guam Form
+C0546126	Acute Confusional Senile Dementia
+C0577631	Carotid Atherosclerosis
+C0600427	Cocaine Dependence
+C0740391	Middle Cerebral Artery Occlusion
+C0740392	Infarction, Middle Cerebral Artery
+C0750900	Alzheimer's Disease, Focal Onset
+C0750901	Alzheimer Disease, Early Onset
+C0750974	Brain Tumor, Primary
+C0750977	Recurrent Brain Neoplasm
+C0750979	Primary malignant neoplasm of brain
+C0751265	Learning Disabilities
+C0751587	CADASIL Syndrome
+C0751690	Malignant Peripheral Nerve Sheath Tumor
+C0751713	Inclusion Body Myopathy, Sporadic
+C0751772	REM Sleep Behavior Disorder
+C0751781	Dentatorubral-Pallidoluysian Atrophy
+C0751967	Multiple Sclerosis, Relapsing-Remitting
+C0752120	Spinocerebellar Ataxia Type 1
+C0752125	Spinocerebellar Ataxia Type 7
+C0752166	Bardet-Biedl Syndrome
+C0752304	Hypoxic-Ischemic Encephalopathy
+C0752347	Lewy Body Disease
+C0917798	Cerebral Ischemia
+C0917816	Mental deficiency
+C1263846	Attention deficit hyperactivity disorder
+C1269683	Major Depressive Disorder
+C1306214	ACTH-Secreting Pituitary Adenoma
+C1510586	Autism Spectrum Disorders
+C1839259	Bulbo-Spinal Atrophy, X-Linked
+C1868675	PARKINSON DISEASE 2, AUTOSOMAL RECESSIVE JUVENILE
+C1955869	Malformations of Cortical Development
+C2931689	Dystrophia myotonica 2
+C3658299	Zellweger Spectrum
