@@ -1,0 +1,97 @@
+﻿cellName;cosmicId;tag;tumour_location
+T-47D;905945;T47D;"Breast (Carcinoma; Ductal carcinoma)"
+NCI/ADR-RES;905987;NCI-ADR-RES;Ovary (Carcinoma)
+NCIH520;908443;NCI-H520;"Lung (Carcinoma; Squamous cell carcinoma)"
+SW-620;905962;SW620;"Large intestine; Colon (Carcinoma; Adenocarcinoma)"
+ES2;1240128;ES-2;
+UACC-62;905976;;Skin (Malignant melanoma)
+A2058;906792;;Skin (Malignant melanoma)
+IGROV1;905968;IGROV-1;Ovary (Carcinoma)
+SW837;909755;;"Large intestine; Rectum (Carcinoma; Adenocarcinoma)"
+HCT-15;905937;;"Large intestine; Colon (Carcinoma)"
+SNB-19;905966;SNB19;"Central nervous system; Cerebrum (Glioma; Astrocytoma Grade IV; Glioblastoma multiforme)"
+PC-3;905934;;"Prostate (Carcinoma; Adenocarcinoma)"
+KM12;905989;;"Large intestine; Colon (Carcinoma; Adenocarcinoma)"
+K-562;905940;;"Haematopoietic and lymphoid (Haematopoietic neoplasm; Chronic myeloid leukaemia)"
+UACC62;905976;UACC-62;Skin (Malignant melanoma)
+CAOV3;906825;;"Ovary (Carcinoma; Adenocarcinoma)"
+HT29;905939;HT-29;"Large intestine; Colon (Carcinoma)"
+OCUBM;909256;OCUB-M;Breast (Carcinoma)
+OVCAR-4;905990;;Ovary (Carcinoma)
+A2780;906804;;"Ovary (Carcinoma; Adenocarcinoma)"
+LOVO;907790;;"Large intestine; Colon (Carcinoma; Adenocarcinoma)"
+NCI-H522;905944;;"Lung (Carcinoma; Non small cell carcinoma)"
+SN12C;905979;;"Kidney (Carcinoma; Renal cell carcinoma)"
+RKO;909698;;"Large intestine; Colon (Carcinoma)"
+MALME-3M;905953;Malme-3M;Skin (Malignant melanoma)
+SK-MEL-2;905955;;"Skin; Upper leg (Malignant melanoma)"
+MDA-MB-435;905988;人乳腺癌;Skin (Malignant melanoma)
+SKOV3;905959;SK-OV-3;"Ovary (Carcinoma; Adenocarcinoma)"
+RPMI-8226;905964;;"Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)"
+NCIH23;905942;NCI-H23;"Lung (Carcinoma; Non small cell carcinoma)"
+SK-OV-3;905959;;"Ovary (Carcinoma; Adenocarcinoma)"
+HT144;907067;HT-144;Skin (Malignant melanoma)
+SW620;905962;;"Large intestine; Colon (Carcinoma; Adenocarcinoma)"
+SF-539;905984;SF539;"Central nervous system; Brain (Glioma)"
+VCAP;1299075;;
+NCIH1650;687800;NCI-H1650;"Lung (Carcinoma; Non small cell carcinoma)"
+HCC-2998;905971;HCC2998;"Large intestine; Colon (Carcinoma; Adenocarcinoma)"
+T47D;905945;;"Breast (Carcinoma; Ductal carcinoma)"
+UACC-257;905977;;Skin (Malignant melanoma)
+NCI-H322M;905967;;"Lung (Carcinoma; Bronchioloalveolar adenocarcinoma)"
+OVCAR-8;905991;;Ovary (Carcinoma)
+HCT-116;905936;;"Large intestine; Colon (Carcinoma)"
+MZ7-mel;753596;;Skin (Malignant melanoma)
+NCI-H460;905943;;"Lung (Carcinoma; Large cell carcinoma)"
+MCF7;905946;;Breast (Carcinoma)
+OVCAR-5;905969;;Ovary (Carcinoma)
+NCIH460;905943;NCI-H460;"Lung (Carcinoma; Large cell carcinoma)"
+UO-31;905981;U031;"Kidney (Carcinoma; Renal cell carcinoma)"
+A427;910851;;Lung (Carcinoma)
+786-0;905947;;"Kidney (Carcinoma; Clear cell renal cell carcinoma)"
+NCIH2122;722046;NCI-H2122;"Lung (Carcinoma; Adenocarcinoma)"
+TK-10;905980;TK10;"Kidney (Carcinoma; Renal cell carcinoma)"
+A375;906793;;Skin (Malignant melanoma)
+PA1;909255;;"Ovary (Germ cell tumour; Teratoma)"
+M14;905975;;Skin (Malignant melanoma)
+CAKI-1;905963;;"Kidney (Carcinoma; Clear cell renal cell carcinoma)"
+MMAC-SF;925339;;Skin (Malignant melanoma)
+SK-MEL-5;905956;;"Skin; Axilla (Malignant melanoma)"
+MDA-MB-231/ATCC;905960;MDA-MB-231;Breast (Carcinoma)
+DU-145;905935;;"Prostate (Carcinoma; Adenocarcinoma)"
+SKMEL30;909726;SK-MEL-30;Skin (Malignant melanoma)
+NCI-H226;905941;;"Lung (Carcinoma; Squamous cell carcinoma)"
+SK-MEL-28;905954;;Skin (Malignant melanoma)
+ACHN;905950;;"Kidney (Carcinoma; Renal cell carcinoma)"
+WM-115;909784;;Skin (Malignant melanoma)
+NCI-H23;905942;;"Lung (Carcinoma; Non small cell carcinoma)"
+UWB1289;1480374;UWB1.289;
+HCT116;905936;HCT-116;"Large intestine; Colon (Carcinoma)"
+SR;905965;;Haematopoietic and lymphoid (Lymphoid neoplasm)
+MOLT-4;905958;;"Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic leukaemia)"
+HOP-62;905972;;"Lung (Carcinoma; Adenocarcinoma)"
+SF-295;905985;SF295;"Central nervous system; Brain (Glioma)"
+LNCAP;907788;LNCaP-Clone-FGC;"Prostate (Carcinoma; Adenocarcinoma)"
+OV90;1240197;OV-90;
+LOX IMVI;905974;LOXIMVI;Skin (Malignant melanoma)
+MDAMB436;1240172;MDA-MB-436;
+OVCAR3;905933;OVCAR-3;"Ovary (Carcinoma; Adenocarcinoma)"
+CCRF-CEM;905952;;"Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic leukaemia)"
+U251;905983;;"Central nervous system; Brain (Glioma)"
+HOP-92;905973;;"Lung (Carcinoma; Large cell carcinoma)"
+A498;905948;;Kidney (Carcinoma)
+EKVX;905970;;"Lung (Carcinoma; Adenocarcinoma)"
+SF-268;905986;SF268;"Central nervous system; Brain (Glioma)"
+HS 578T;905957;Hs-578-T;Breast (Carcinoma)
+HL-60(TB);905938;HL-60;"Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M3)"
+MSTO;908152;MSTO-211H;"Pleura (Mesothelioma; Biphasic)"
+SNB-75;905982;SNB75;"Central nervous system; Brain (Glioma)"
+BT-549;905951;;"Breast (Carcinoma; Ductal carcinoma; Papillary)"
+SKMES1;909728;SK-MES-1;"Lung (Carcinoma; Squamous cell carcinoma)"
+A-375;906793;A375;Skin (Malignant melanoma)
+A549/ATCC;905949;;Lung (Carcinoma)
+COLO 205;905961;COLO-205;"Large intestine; Colon (Carcinoma; Adenocarcinoma)"
+MDA-MB-468;908123;;Breast (Carcinoma)
+RXF 393;905978;RXF393;"Kidney (Carcinoma; Renal cell carcinoma)"
+OVCAR-3;905933;;"Ovary (Carcinoma; Adenocarcinoma)"
+RPMI7951;910903;RPMI-7951;Skin (Malignant melanoma)
