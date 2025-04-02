@@ -1,0 +1,10 @@
+name,disease_id,id,Tumour_Location,cellosaurus_tumor_location
+A375,C3802,4,Skin (Malignant melanoma),Amelanotic melanoma
+A549,C3512,7,Lung (Carcinoma),Lung adenocarcinoma
+HCT116,C4910,21,Large intestine; Colon (Carcinoma),Colon carcinoma
+HT29,C4349,28,Large intestine; Colon (Carcinoma),Colon adenocarcinoma
+LNCAP,C4863,33,No COSMIC ID,Prostate carcinoma
+LOVO,C4349,34,Large intestine; Colon (Carcinoma; Adenocarcinoma),Colon adenocarcinoma
+MCF7,C4194,38,Breast (Carcinoma),Invasive breast carcinoma of no special type
+RKO,C4910,62,Large intestine; Colon (Carcinoma),Colon carcinoma
+VCAP,C4863,89,Not Found,Prostate carcinoma
