@@ -1,3 +1,5 @@
+(el final ir quitando carpeta de código y datos)
+
 # TFM - Master's Thesis Project Sofía Ferrández Benito
 
 This repository contains the code and resources developed for my Master's Thesis. The project involves the construction and processing of a dataset, followed by model training and evaluation. The focus is on organizing the workflow in a clear and reproducible manner.
