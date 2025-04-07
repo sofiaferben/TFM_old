@@ -4,22 +4,20 @@ This repository contains the code and resources developed for my Master's Thesis
 
 ## Repository Structure (Planned)
 
-TFM/
-├── dataset_construction/
-│   ├── data/
-│   │   ├── raw/             # Input raw data
-│   │   ├── clean/           # Processed data (X_train, y_train, X_test, y_test)
-│   ├── code/                # Scripts and notebooks for data processing
-│   └── README.md            # Dataset description and dataset summary table
-│
-├── modeling/
-│   ├── code/                # Scripts and notebooks for training and evaluation
-│   ├── figures/             # Plots and visualizations
-│   ├── results/             # Evaluation results, metrics, etc.
-│
-├── README.md                # Main README file
+- `dataset_construction/`
+  - `data/`
+    - `raw/` – Input raw data
+    - `clean/` – Processed data (X_train, y_train, X_test, y_test)
+  - `code/` – Scripts and notebooks for data processing
+  - `README.md` – Dataset description and dataset summary table
 
-TFM/ ├── dataset_construction/ │ ├── data/ │ │ ├── raw/ # Input raw data │ │ ├── clean/ # Processed data (X_train, y_train, X_test, y_test) │ ├── code/ # Scripts and notebooks for data processing │ └── README.md # Dataset description and dataset summary table │ ├── modeling/ │ ├── code/ # Scripts and notebooks for training and evaluation │ ├── figures/ # Plots and visualizations │ ├── results/ # Evaluation results, metrics, etc. │ ├── README.md # Main README file
+- `modeling/`
+  - `code/` – Scripts and notebooks for training and evaluation
+  - `figures/` – Plots and visualizations
+  - `results/` – Evaluation results, metrics, etc.
+
+- `README.md` – Main README file
+
 
 
 ## Workflow
