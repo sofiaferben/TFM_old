@@ -38,8 +38,8 @@ Instructions for setting up the environment, running the code, and reproducing r
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+TBD
 
 ## Author
 
-Sofía Fernández Benito
+Sofía Ferrández Benito
