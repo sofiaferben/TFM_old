@@ -19,6 +19,8 @@ TFM/
 │
 ├── README.md                # Main README file
 
+TFM/ ├── dataset_construction/ │ ├── data/ │ │ ├── raw/ # Input raw data │ │ ├── clean/ # Processed data (X_train, y_train, X_test, y_test) │ ├── code/ # Scripts and notebooks for data processing │ └── README.md # Dataset description and dataset summary table │ ├── modeling/ │ ├── code/ # Scripts and notebooks for training and evaluation │ ├── figures/ # Plots and visualizations │ ├── results/ # Evaluation results, metrics, etc. │ ├── README.md # Main README file
+
 
 ## Workflow
 
